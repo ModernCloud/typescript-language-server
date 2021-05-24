@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -f Dockerfile -t moderncloud/runner:0.3 .
+docker build -f Dockerfile -t moderncloud/typescript-language-server:0.1 .
